@@ -1,0 +1,25 @@
+
+container.crafting= 
+container.inventory= 
+
+container.chest= 
+container.chestDouble= 
+container.enderchest= 
+container.enchant= 
+
+tile.pumpkin.name=Red Gift
+tile.litpumpkin.name=Red Gift with light
+tile.melon.name=Green Gift
+tile.cauldron.name=Blue Gift (opened)
+tile.hayBlock.name=Yellow Gift
+tile.tnt.name=Black Gift (TNT)
+tile.chest.name=Openable Gift (Chest)
+tile.chestTrap.name=Openable Gift (Trapped Chest)
+
+item.cauldron.name=Blue Gift (opened)
+item.flowerPot.name=Small Red Gift (Flower Pot)
+
+tile.stairsSandStone.name=Xmas Hightech&Furniture by BDcraft
+tile.stairsRedSandStone.name=Xmas Deco&Toys by BDcraft
+
+tile.stairsWoodAcacia.name=Cottage roof

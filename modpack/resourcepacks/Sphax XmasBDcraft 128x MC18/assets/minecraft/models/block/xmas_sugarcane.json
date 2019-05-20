@@ -1,0 +1,46 @@
+{
+"__comment": "Designed by Sphax with BDcraft Cubik PRO 0.85 Beta - http://bdcraft.net",
+"textures": {
+    "particle": "blocks/reeds",
+    "texture": "blocks/reeds"
+},
+"elements": [ 
+{
+    "from": [ 2, 3, 0.625 ],
+    "to": [ 4, 15, 2.625 ],
+    "rotation": { "origin": [ 2, 3, 0.625 ], "axis": "y", "angle": -45 },
+    "faces": {
+        "down":  { "uv": [ 0, 0, 2, 2 ], "texture": "#texture" },
+        "north": { "uv": [ 13, 4, 15, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 13, 4, 15, 16 ], "texture": "#texture" },
+        "west":  { "uv": [ 13, 2, 15, 14 ], "texture": "#texture" },
+        "east":  { "uv": [ 13, 2, 15, 14 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -0.8125, 15, -2.1875 ],
+    "to": [ 5.1875, 17, -0.1875 ],
+    "rotation": { "origin": [ -0.8125, 15, -2.1875 ], "axis": "y", "angle": -45 },
+    "faces": {
+        "down":  { "uv": [ 13, 2, 15, 8 ], "rotation": 90, "texture": "#texture" },
+        "up":    { "uv": [ 13, 2, 15, 8 ], "rotation": 90, "texture": "#texture" },
+        "north": { "uv": [ 15, 2, 13, 8 ], "rotation": 90, "texture": "#texture" },
+        "south": { "uv": [ 4, 4.5, 2, 10.5 ], "rotation": 90, "texture": "#texture" },
+        "west":  { "uv": [ 13, 0, 15, 2 ], "texture": "#texture" },
+        "east":  { "uv": [ 13, 0, 15, 2 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -0.8125, 12, -2.1875 ],
+    "to": [ 1.1875, 15, -0.1875 ],
+    "rotation": { "origin": [ -0.8125, 12, -2.1875 ], "axis": "y", "angle": -45 },
+    "faces": {
+        "down":  { "uv": [ 0, 2, 2, 0 ], "texture": "#texture" },
+        "north": { "uv": [ 13, 4, 15, 7 ], "texture": "#texture" },
+        "south": { "uv": [ 13, 4, 15, 7 ], "texture": "#texture" },
+        "west":  { "uv": [ 13, 2, 15, 5 ], "texture": "#texture" },
+        "east":  { "uv": [ 13, 2, 15, 5 ], "texture": "#texture" }
+    }
+}
+]
+}

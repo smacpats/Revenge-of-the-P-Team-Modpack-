@@ -1,0 +1,6 @@
+{
+    "parent": "block/xmas_screen_laptop",
+    "textures": {
+        "screen": "blocks/xbdc_anim3"
+    }
+}

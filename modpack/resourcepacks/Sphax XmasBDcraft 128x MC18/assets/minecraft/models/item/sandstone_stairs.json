@@ -1,0 +1,16 @@
+{
+    "parent": "block/xmas_gift",
+    "textures": {
+        "top": "blocks/xbdc_gift_top_orange",
+        "front": "blocks/xbdc_gift_side_orange",
+        "side": "blocks/xbdc_gift_side_orange",
+        "bottom": "blocks/xbdc_gift_bottom_orange"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 10, -45, 170 ],
+            "translation": [ 0, 1.5, -2.75 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    }
+}

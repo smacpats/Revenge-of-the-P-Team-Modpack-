@@ -1,0 +1,27 @@
+
+item.rottenFlesh.name=Cerveau Zombie
+
+container.crafting= 
+container.inventory= 
+
+container.chest= 
+container.chestDouble= 
+container.enderchest= 
+container.enchant= 
+
+tile.pumpkin.name=Cadeau rouge
+tile.litpumpkin.name=Cadeau rouge avec guirlande
+tile.melon.name=Cadeau vert
+tile.cauldron.name=Cadeau bleu (ouvert)
+tile.hayBlock.name=Cadeau jaune
+tile.tnt.name=Cadeau noir (TNT)
+tile.chest.name=Cadeau ouvrable (Coffre)
+tile.chestTrap.name=Cadeau ouvrable (Coffre piégé)
+
+item.cauldron.name=Cadeau bleu (ouvert)
+item.flowerPot.name=Petit Cadeau rouge (Pot de fleur)
+
+tile.stairsSandStone.name=Technologie&Fournitures par BDcraft
+tile.stairsRedSandStone.name=Déco&Jouets de Noël par BDcraft
+
+tile.stairsWoodAcacia.name=Toit de Chalet

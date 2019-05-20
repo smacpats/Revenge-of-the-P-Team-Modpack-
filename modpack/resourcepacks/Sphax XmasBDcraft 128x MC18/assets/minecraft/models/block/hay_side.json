@@ -1,0 +1,10 @@
+{
+    "parent": "block/xmas_gift_open",
+    "textures": {
+        "top": "blocks/xbdc_gift_top_yellow",
+        "front": "blocks/xbdc_gift_side_yellow",
+        "side": "blocks/xbdc_gift_side_yellow",
+        "bottom": "blocks/xbdc_gift_bottom_yellow",
+        "inner": "blocks/xbdc_gift_inner_yellow"
+    }
+}

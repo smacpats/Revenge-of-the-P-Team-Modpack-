@@ -1,0 +1,11 @@
+{
+"__comment": "Designed by Sphax with BDcraft Cubik PRO 0.76 Beta - http://bdcraft.net",
+"parent": "block/xmas_gift",
+"textures": {
+    "particle": "blocks/tnt_side",
+    "side": "blocks/tnt_side",
+    "up": "blocks/tnt_top",
+    "down": "blocks/tnt_bottom",
+    "front": "blocks/tnt_side"
+}
+}

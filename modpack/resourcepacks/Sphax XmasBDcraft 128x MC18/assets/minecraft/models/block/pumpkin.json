@@ -1,0 +1,9 @@
+{
+    "parent": "block/xmas_gift",
+    "textures": {
+        "top": "blocks/xbdc_gift_top_red",
+        "front": "blocks/xbdc_gift_side_red",
+        "side": "blocks/xbdc_gift_side_red",
+        "bottom": "blocks/xbdc_gift_bottom_red"
+    }
+}

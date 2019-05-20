@@ -1,0 +1,21 @@
+{
+	"__comment": "Designed by Sphax for PureBDcraft - http://bdcraft.net",
+	"parent": "block/torch",
+	"display": {
+		"thirdperson": {
+			"rotation": [ -90, 0, 0 ],
+			"translation": [ 0, 1, -4 ],
+			"scale": [ 0.7, 0.8, 0.7 ]
+		},
+		"firstperson": {
+			"rotation": [ 0, 90, 0 ],
+			"translation": [ 4, 4, 2 ],
+			"scale": [ 1.5, 2, 1.5 ]
+		},
+		"gui": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 2, 2, 2 ]
+		}
+	}
+}

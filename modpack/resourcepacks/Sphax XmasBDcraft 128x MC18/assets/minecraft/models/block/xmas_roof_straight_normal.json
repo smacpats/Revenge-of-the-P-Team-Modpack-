@@ -1,0 +1,6 @@
+{
+    "parent": "block/xmas_roof_straight",
+    "textures": {
+        "roof": "blocks/xbdc_roof"
+    }
+}

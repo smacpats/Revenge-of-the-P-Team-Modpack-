@@ -1,0 +1,6 @@
+{
+    "parent": "block/xmas_tech_misc2",
+    "textures": {
+        "frame": "blocks/xbdc_frame3"
+    }
+}

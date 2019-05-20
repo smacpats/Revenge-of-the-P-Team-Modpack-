@@ -1,0 +1,6 @@
+{
+    "parent": "block/xmas_screen_crt",
+    "textures": {
+        "screen": "blocks/xbdc_anim1"
+    }
+}

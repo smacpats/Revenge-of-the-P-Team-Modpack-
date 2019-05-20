@@ -1,0 +1,25 @@
+
+container.crafting= 
+container.inventory= 
+
+container.chest= 
+container.chestDouble= 
+container.enderchest= 
+container.enchant= 
+
+tile.pumpkin.name=Red Geschenk
+tile.litpumpkin.name=Red Geschenk mit Licht
+tile.melon.name=Grüne Geschenk
+tile.cauldron.name=Blue Geschenk (geöffnet)
+tile.hayBlock.name=Gelb Geschenk
+tile.tnt.name=Schwarz Geschenk (TNT)
+tile.chest.name=Rauchschutzprüfungen Geschenk (Brust)
+tile.chestTrap.name=Rauchschutzprüfungen Geschenk (Gefangen Brust)
+
+item.cauldron.name=Blue Geschenk (geöffnet)
+item.flowerPot.name=Kleines rotes Geschenk (Blumentopf)
+
+tile.stairsSandStone.name=Xmas HighTech&Möbel von BDcraft
+tile.stairsRedSandStone.name=Xmas Deko&Spielzeug von BDcraft
+
+tile.stairsWoodAcacia.name=Dach der Hütte

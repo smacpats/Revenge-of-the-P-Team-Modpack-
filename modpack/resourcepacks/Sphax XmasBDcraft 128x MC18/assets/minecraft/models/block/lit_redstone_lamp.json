@@ -1,0 +1,7 @@
+{
+    "parent": "block/xmas_lantern",
+    "textures": {
+        "side": "blocks/redstone_lamp_on",
+        "cap": "blocks/redstone_lamp_top_on"
+    }
+}

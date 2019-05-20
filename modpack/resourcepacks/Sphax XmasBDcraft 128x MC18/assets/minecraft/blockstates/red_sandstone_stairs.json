@@ -1,0 +1,136 @@
+{
+    "variants": {
+        "facing=east,half=bottom,shape=straight":  [
+			{ "model": "xmas_teddy", "y": 90, "weight": 40 },
+			{ "model": "xmas_truck", "y": 90, "weight": 40 },
+			{ "model": "xmas_cubes1", "y": 90, "weight": 20 },
+			{ "model": "xmas_cubes2", "y": 90, "weight": 20 },
+			{ "model": "xmas_figs", "y": 90, "weight": 20 }],
+        "facing=west,half=bottom,shape=straight":  [
+			{ "model": "xmas_teddy", "y": 270, "weight": 40 },
+			{ "model": "xmas_truck", "y": 270, "weight": 40 },
+			{ "model": "xmas_cubes1", "y": 270, "weight": 20 },
+			{ "model": "xmas_cubes2", "y": 270, "weight": 20 },
+			{ "model": "xmas_figs", "y": 270, "weight": 20 }],
+        "facing=south,half=bottom,shape=straight": [
+			{ "model": "xmas_teddy", "y": 180, "weight": 40 },
+			{ "model": "xmas_truck", "y": 180, "weight": 40 },
+			{ "model": "xmas_cubes1", "y": 180, "weight": 20 },
+			{ "model": "xmas_cubes2", "y": 180, "weight": 20 },
+			{ "model": "xmas_figs", "y": 180, "weight": 20 }],
+        "facing=north,half=bottom,shape=straight": [
+			{ "model": "xmas_teddy", "weight": 40 },
+			{ "model": "xmas_truck", "weight": 40 },
+			{ "model": "xmas_cubes1", "weight": 20 },
+			{ "model": "xmas_cubes2", "weight": 20 },
+			{ "model": "xmas_figs", "weight": 20 }],
+        "facing=east,half=bottom,shape=outer_right":  { "model": "xmas_star", "y": 180 },
+        "facing=west,half=bottom,shape=outer_right":  { "model": "xmas_star" },
+        "facing=south,half=bottom,shape=outer_right": { "model": "xmas_star", "y": 270 },
+        "facing=north,half=bottom,shape=outer_right": { "model": "xmas_star", "y": 90 },
+        "facing=east,half=bottom,shape=outer_left":  { "model": "xmas_star", "y": 90 },
+        "facing=west,half=bottom,shape=outer_left":  { "model": "xmas_star", "y": 270 },
+        "facing=south,half=bottom,shape=outer_left": { "model": "xmas_star", "y": 180 },
+        "facing=north,half=bottom,shape=outer_left": { "model": "xmas_star" },
+        "facing=east,half=bottom,shape=inner_right":  [{ "model": "xmas_lollypop1" },{ "model": "xmas_lollypop2" },{ "model": "xmas_lollypop3" },{ "model": "xmas_lollypop4" },{ "model": "xmas_lollypop5" }],
+        "facing=west,half=bottom,shape=inner_right":  [{ "model": "xmas_lollypop1", "y": 90 },{ "model": "xmas_lollypop2", "y": 90 },{ "model": "xmas_lollypop3", "y": 90 },{ "model": "xmas_lollypop4", "y": 90 },{ "model": "xmas_lollypop5", "y": 90 }],
+        "facing=south,half=bottom,shape=inner_right":  [{ "model": "xmas_lollypop1", "y": 180 },{ "model": "xmas_lollypop2", "y": 180 },{ "model": "xmas_lollypop3", "y": 180 },{ "model": "xmas_lollypop4", "y": 180 },{ "model": "xmas_lollypop5", "y": 180 }],
+        "facing=north,half=bottom,shape=inner_right":  [{ "model": "xmas_lollypop1", "y": 270 },{ "model": "xmas_lollypop2", "y": 270 },{ "model": "xmas_lollypop3", "y": 270 },{ "model": "xmas_lollypop4", "y": 270 },{ "model": "xmas_lollypop5", "y": 270 }],
+        "facing=east,half=bottom,shape=inner_left":  [{ "model": "xmas_lollypop1" },{ "model": "xmas_lollypop2" },{ "model": "xmas_lollypop3" },{ "model": "xmas_lollypop4" },{ "model": "xmas_lollypop5" }],
+        "facing=west,half=bottom,shape=inner_left":  [{ "model": "xmas_lollypop1", "y": 90 },{ "model": "xmas_lollypop2", "y": 90 },{ "model": "xmas_lollypop3", "y": 90 },{ "model": "xmas_lollypop4", "y": 90 },{ "model": "xmas_lollypop5", "y": 90 }],
+        "facing=south,half=bottom,shape=inner_left":  [{ "model": "xmas_lollypop1", "y": 180 },{ "model": "xmas_lollypop2", "y": 180 },{ "model": "xmas_lollypop3", "y": 180 },{ "model": "xmas_lollypop4", "y": 180 },{ "model": "xmas_lollypop5", "y": 180 }],
+        "facing=north,half=bottom,shape=inner_left":  [{ "model": "xmas_lollypop1", "y": 270 },{ "model": "xmas_lollypop2", "y": 270 },{ "model": "xmas_lollypop3", "y": 270 },{ "model": "xmas_lollypop4", "y": 270 },{ "model": "xmas_lollypop5", "y": 270 }],
+        "facing=east,half=top,shape=straight": [
+				{ "model": "xmas_ball_blue", "y": 270 },
+				{ "model": "xmas_ball_green", "y": 270 },
+				{ "model": "xmas_ball_magenta", "y": 270 },
+				{ "model": "xmas_ball_red", "y": 270 },
+				{ "model": "xmas_ball_yellow", "y": 270 }
+				],
+        "facing=west,half=top,shape=straight": [
+				{ "model": "xmas_ball_blue", "y": 90 },
+				{ "model": "xmas_ball_green", "y": 90 },
+				{ "model": "xmas_ball_magenta", "y": 90 },
+				{ "model": "xmas_ball_red", "y": 90 },
+				{ "model": "xmas_ball_yellow", "y": 90 }
+				],
+        "facing=south,half=top,shape=straight": [
+				{ "model": "xmas_ball_blue" },
+				{ "model": "xmas_ball_green" },
+				{ "model": "xmas_ball_magenta" },
+				{ "model": "xmas_ball_red" },
+				{ "model": "xmas_ball_yellow" }
+				],
+        "facing=north,half=top,shape=straight": [
+				{ "model": "xmas_ball_blue", "y": 180 },
+				{ "model": "xmas_ball_green", "y": 180 },
+				{ "model": "xmas_ball_magenta", "y": 180 },
+				{ "model": "xmas_ball_red", "y": 180 },
+				{ "model": "xmas_ball_yellow", "y": 180 }
+				],
+        "facing=east,half=top,shape=outer_right":  { "model": "xmas_sugarcane", "y": 90 },
+        "facing=west,half=top,shape=outer_right":  { "model": "xmas_sugarcane", "y": 270 },
+        "facing=south,half=top,shape=outer_right": { "model": "xmas_sugarcane", "y": 180 },
+        "facing=north,half=top,shape=outer_right": { "model": "xmas_sugarcane" },
+        "facing=east,half=top,shape=outer_left":  { "model": "xmas_sugarcane", "y": 180 },
+        "facing=west,half=top,shape=outer_left":  { "model": "xmas_sugarcane" },
+        "facing=south,half=top,shape=outer_left": { "model": "xmas_sugarcane", "y": 270 },
+        "facing=north,half=top,shape=outer_left": { "model": "xmas_sugarcane", "y": 90 },
+        "facing=east,half=top,shape=inner_right": [
+				{ "model": "xmas_ball_blue", "y": 270 },
+				{ "model": "xmas_ball_green", "y": 270 },
+				{ "model": "xmas_ball_magenta", "y": 270 },
+				{ "model": "xmas_ball_red", "y": 270 },
+				{ "model": "xmas_ball_yellow", "y": 270 }
+				],
+        "facing=west,half=top,shape=inner_right": [
+				{ "model": "xmas_ball_blue", "y": 90 },
+				{ "model": "xmas_ball_green", "y": 90 },
+				{ "model": "xmas_ball_magenta", "y": 90 },
+				{ "model": "xmas_ball_red", "y": 90 },
+				{ "model": "xmas_ball_yellow", "y": 90 }
+				],
+        "facing=south,half=top,shape=inner_right": [
+				{ "model": "xmas_ball_blue" },
+				{ "model": "xmas_ball_green" },
+				{ "model": "xmas_ball_magenta" },
+				{ "model": "xmas_ball_red" },
+				{ "model": "xmas_ball_yellow" }
+				],
+        "facing=north,half=top,shape=inner_right": [
+				{ "model": "xmas_ball_blue", "y": 180 },
+				{ "model": "xmas_ball_green", "y": 180 },
+				{ "model": "xmas_ball_magenta", "y": 180 },
+				{ "model": "xmas_ball_red", "y": 180 },
+				{ "model": "xmas_ball_yellow", "y": 180 }
+				],
+        "facing=east,half=top,shape=inner_left": [
+				{ "model": "xmas_ball_blue", "y": 270 },
+				{ "model": "xmas_ball_green", "y": 270 },
+				{ "model": "xmas_ball_magenta", "y": 270 },
+				{ "model": "xmas_ball_red", "y": 270 },
+				{ "model": "xmas_ball_yellow", "y": 270 }
+				],
+        "facing=west,half=top,shape=inner_left": [
+				{ "model": "xmas_ball_blue", "y": 90 },
+				{ "model": "xmas_ball_green", "y": 90 },
+				{ "model": "xmas_ball_magenta", "y": 90 },
+				{ "model": "xmas_ball_red", "y": 90 },
+				{ "model": "xmas_ball_yellow", "y": 90 }
+				],
+        "facing=south,half=top,shape=inner_left": [
+				{ "model": "xmas_ball_blue" },
+				{ "model": "xmas_ball_green" },
+				{ "model": "xmas_ball_magenta" },
+				{ "model": "xmas_ball_red" },
+				{ "model": "xmas_ball_yellow" }
+				],
+        "facing=north,half=top,shape=inner_left": [
+				{ "model": "xmas_ball_blue", "y": 180 },
+				{ "model": "xmas_ball_green", "y": 180 },
+				{ "model": "xmas_ball_magenta", "y": 180 },
+				{ "model": "xmas_ball_red", "y": 180 },
+				{ "model": "xmas_ball_yellow", "y": 180 }
+				]
+    }
+}
