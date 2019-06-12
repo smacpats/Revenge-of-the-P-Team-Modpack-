@@ -7,4 +7,4 @@ Minecraft modpack I made years ago on technic, adds around 25 unique mods to Min
 Technic- https://www.technicpack.net/modpack/revenge-of-the-p-team.762781
 
 
-Server ZIP- https://mega.nz/#!Tr4FxQrZ!mQ5-cKv3ywqSk4s8ob8VK6eJ8-DXdqV2KtdGWLqCILk
+Server ZIP- https://mega.nz/#!SzAHkIyS!gulvOGTN7r1v4JWkl4WjyUeS9YGTOyS8YEza9KT_Zic
