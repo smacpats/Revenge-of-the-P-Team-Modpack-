@@ -1,0 +1,2 @@
+﻿First agree to the Eula.txt file by typing in “True” in the place that the “False” is.
+To start the server and generate the files launch the “P-TeamServerBETA.jar” file and wait. After all the files generate type “Stop” and open and configure server.properties. Have fun on your P-Team server! :D
